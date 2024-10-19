@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/mdwhatcott/funnel/training/internet"
+	"github.com/mdw-go/funnel/training/internet"
 )
 
 func main() {
